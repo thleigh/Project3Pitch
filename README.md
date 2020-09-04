@@ -70,22 +70,29 @@ with Steven in the backend.
 ### Daily Sprints
 ##### (or otherwise general plan for accomplishing tasks, preferably broken down by day)
 
-9/5 Saturday
+<br> 
+
+ 9/5 Saturday
 - Build models
 - Scratch routes/pages
-9/6 Sunday
+
+ 9/6 Sunday
 - Get basic layouts public
 - Get basic layout private
 - Distribute route building
+
 9/7 Monday
 - Finish API
 - Finish models
+
 9/8 Tuesday
 - finalize routes
 - finalize models
+
 9/9 Wednesday
 - implementation of each other work
 - Goal: MVP
+
 9/10 Thursday
 - deploy
 - Work together with CSS
